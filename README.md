@@ -22,7 +22,7 @@ npx spec2rtl-cc
 
 <br>
 
-![Spec2RTL Install](assets/terminal.svg)
+![Spec2RTL Install](assets/terminal.png)
 
 <br>
 
