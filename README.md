@@ -7,9 +7,9 @@
 **Solves context rot — the quality degradation that happens as Claude fills its context window.**
 
 [![npm version](https://img.shields.io/npm/v/spec2rtl-cc?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/spec2rtl-cc)
-[![npm downloads](https://img.shields.io/npm/dm/spec2rtl-cc?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/spec2rtl-cc)
+<!-- [![npm downloads](https://img.shields.io/npm/dm/spec2rtl-cc?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/spec2rtl-cc) -->
 <!-- [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/) -->
-[![GitHub stars](https://img.shields.io/github/stars/glittercowboy/spec2rtl?style=for-the-badge&logo=github&color=181717)](https://github.com/glittercowboy/spec2rtl)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/glittercowboy/spec2rtl?style=for-the-badge&logo=github&color=181717)](https://github.com/glittercowboy/spec2rtl) -->
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
 <br>
